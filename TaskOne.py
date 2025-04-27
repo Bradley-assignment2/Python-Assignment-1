@@ -15,5 +15,3 @@ def average_converting():
 
 #Prints the returned string
 print(average_converting())
-
-
